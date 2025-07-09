@@ -9,10 +9,10 @@ I’m a Kubernetes Platform Engineer with 5.2 years of experience, currently wor
 At Starbucks, I contribute to platform stability and automation, driving improvements across CI/CD, GitOps, and observability. My proactive mindset earned me an “On the Spot” award for impactful delivery and dedication. Whether it’s GKE, infrastructure automation, or cloud-native design—I love working on solutions that simplify complexity and bring long-term value.
 
 * 🌍  I'm based in Bangalore | India
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ d-anil-kumar-7426b227a)
+* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/d-anil-kumar-7426b227a)
 * ✉️  You can contact me at [anilkumard369e@gmail.com](mailto:anilkumard369e@gmail.com)
 * 🚀  I'm currently working on [GCP](http://GKE)
-* 🧠  I'm learning Kubernetes | GCP
+* 🧠  I'm learning Kubernetes and GCP
 * 🤝  I'm open to collaborating on Kubernetes and GCP
 * ⚡  I'm a story teller and google enthusiast
 
