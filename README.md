@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps Engineer with Google Cloud
 ---------------------------------
 
-I’m a Kubernetes Platform Engineer with 5.2 years of experience, currently working at TCS for the Starbucks account. My strongest area is Kubernetes—designing, managing, and scaling clusters to support thousands of production workloads. I’ve also developed a deep passion for Google Cloud (GCP), where I focus on leveraging its powerful services to build modern, scalable, and cost-efficient infrastructure.
+I’m a Kubernetes Platform Engineer with 6 years of experience, currently working at TCS for the Starbucks account. My strongest area is Kubernetes—designing, managing, and scaling clusters to support thousands of production workloads. I’ve also developed a deep passion for Google Cloud (GCP), where I focus on leveraging its powerful services to build modern, scalable, and cost-efficient infrastructure.
 
 At Starbucks, I contribute to platform stability and automation, driving improvements across CI/CD, GitOps, and observability. My proactive mindset earned me an “On the Spot” award for impactful delivery and dedication. Whether it’s GKE, infrastructure automation, or cloud-native design—I love working on solutions that simplify complexity and bring long-term value.
 
